@@ -4,7 +4,7 @@
 
 # priority_queue.py
 
-# Purpose: priority queue - sorts the elements in an ascending order
+# Purpose: priority queue - sorts the elements within the queue in an ascending order
 
 # Dependency:
 import queue
