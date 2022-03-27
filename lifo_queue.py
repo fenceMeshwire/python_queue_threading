@@ -2,7 +2,7 @@
 
 # Python 3.9.7
 
-# 02_lifo_queue.py
+# lifo_queue.py
 
 # Purpose: LIFO queue - last element in first element out
 
