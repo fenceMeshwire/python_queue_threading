@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
 
-# Python 3.9.5
+# Python 3.9.7
 
-# 03_priority_queue.py
+# priority_queue.py
 
 # Purpose: priority queue - sorts the elements in an ascending order
 
