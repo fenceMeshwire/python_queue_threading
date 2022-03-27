@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 
-# Python 3.7.1
+# Python 3.9.5
 
 # deque.py
 
