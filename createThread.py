@@ -8,7 +8,6 @@
 
 # Dependencies
 import time, threading
-import sys
 
 def basic_function():
     print('Starting the thread...')
